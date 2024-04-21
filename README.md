@@ -1,4 +1,4 @@
-# Hi there, I'm Daniyal 👋
+# 👋Hello world, I'm Daniyal
 
 ## About me
 
