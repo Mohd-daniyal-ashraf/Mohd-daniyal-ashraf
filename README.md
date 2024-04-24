@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello world 👋, I'm Daniyal</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello world, I'm Daniyal</h1>
 <h3 align="center">A passionate  Full stack developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
@@ -28,7 +28,7 @@
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Mohd-daniyal-ashraf&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
----
+
 
 
 <p align="center">
