@@ -1,12 +1,14 @@
 
 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. 
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello world, I'm Daniyal                                                                                   <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohd-daniyal-ashraf&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-Welcomw to my page!
-I am full stack web developer from india
+👏 Welcome to my page! <br>
+I'm Daniyal, Fullstack developer from  India. 
+Excel in problem-solving and development.
 
 
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
