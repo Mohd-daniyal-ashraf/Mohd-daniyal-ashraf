@@ -6,13 +6,6 @@
 
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
-## About me
-- 💻 **Passionate Computer Science Graduate**: Excited about leveraging technology to solve real-world problems.
-- 🚀 **Expertise in Web Development**: Proficient in, Node.js, Express.js, React, MongoDB, with hands-on experience in building dynamic web applications.
-- 🌟 **Problem Solver Extraordinaire**: Solved over 200+ problems on Leetcode, Recognized as a Top 6.9% Leetcoder.
-- 🎓 **Continuous Learner**: Graduated with a Bachelor of Technology in Computer Science, always eager to learn and adapt to new technologies.
-- 💼 **Versatile Skill Set**: Experienced in C++, C, JS, Java, Python, as well as frontend technologies like HTML, CSS, and Bootstrap.
-- 🎯 **Driven by Innovation**: Enthusiastic about pushing boundaries and exploring innovative solutions in software engineering.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -30,8 +23,8 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Brave browser" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Express-303030?style=flat-square&logo=express&logoColor=white" />
 </p>
 
 ---
