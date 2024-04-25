@@ -54,6 +54,11 @@ Excel in problem-solving and development.
   <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=flat" height="35" alt="Figma badge" style="margin-right: 10px;" />
 </p>
 
+---
+<h2 align="center">Problem Solving</h2>
+<p align="center">
+  <img width="1000" height="400" src="https://leetcard.jacoblin.cool/Daniyal_?ext=contest">
+</p>
 
 ---
 <p align="center">
