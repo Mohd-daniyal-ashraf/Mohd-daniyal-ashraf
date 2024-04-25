@@ -22,32 +22,38 @@ Excel in problem-solving and development.
   </a>
 </div>
 
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
+<h3>Programming Languages:</h3>
 <p>
-<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/-Express-303030?style=flat-square&logo=express&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
-<img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-
+  <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&labelColor=&style=flat" height="35" alt="C++ badge" style="margin-left: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=flat" height="35" alt="Java badge" />
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=flat" height="35" alt="Python badge" />
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=flat" height="35" alt="JavaScript badge" />
 </p>
 
----
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
----
+<h3>Technologyes:</h3>
+<p>
+  <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=flat" height="35" alt="React.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=flat" height="35" alt="Node.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&labelColor=&style=flat" height="35" alt="Express.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=EJS&logo=ejs&label=&color=3CA3E2&logoColor=white&labelColor=&style=flat" height="35" alt="EJS badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Rest+API&logo=rest&label=&color=6DB33F&logoColor=white&labelColor=&style=flat" height="35" alt="Rest API badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=flat" height="35" alt="MongoDB badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=SQL&logo=sql&label=&color=003B57&logoColor=white&labelColor=&style=flat" height="35" alt="SQL badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=flat" height="35" alt="MySQL badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=flat" height="35" alt="HTML5 badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=flat" height="35" alt="CSS badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=563D7C&logoColor=white&labelColor=&style=flat" height="35" alt="Bootstrap badge" style="margin-right: 10px;" />
+</p>
+
+<h3>Tools:</h3>
+<p>
+  <img src="https://img.shields.io/static/v1?message=vs+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="35" alt="VS Code badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="35" alt="Git badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="35" alt="GitHub badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=flat" height="35" alt="Figma badge" style="margin-right: 10px;" />
+</p>
+
 
 ---
 <p align="center">
