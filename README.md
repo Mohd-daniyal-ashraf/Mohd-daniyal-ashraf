@@ -48,10 +48,11 @@ Excel in problem-solving and development.
 
 <h3>Tools:</h3>
 <p>
-  <img src="https://img.shields.io/static/v1?message=vs+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="35" alt="VS Code badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=VS+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="35" alt="VS Code badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="35" alt="Git badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="35" alt="GitHub badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=flat" height="35" alt="Figma badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Canva&logo=canva&label=&color=00C4CC&logoColor=white&labelColor=&style=flat" height="35" alt="Canva badge" style="margin-right: 10px;" />
 </p>
 
 ---
