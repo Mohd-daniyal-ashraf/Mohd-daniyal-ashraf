@@ -8,7 +8,7 @@
 
 👏 Welcome to my page! <br>
 I'm Daniyal, Fullstack developer from  India. 
-Excel in problem-solving and development.
+Excel in Problem Solving and Development.
 
 
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
