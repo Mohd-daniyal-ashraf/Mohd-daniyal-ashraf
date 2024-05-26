@@ -7,7 +7,7 @@
 </div>
 
 👏 Welcome to my page! <br>
-I'm Daniyal, Fullstack developer from  India. 
+I'm Daniyal, Full-stack developer from  India. 
 Excel in Problem Solving and Development.
 
 
