@@ -27,7 +27,6 @@ Excel in Problem Solving and Development.
 <p>
   <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&labelColor=&style=flat" height="35" alt="C++ badge" style="margin-left: 10px;" />
   <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=flat" height="35" alt="Java badge" />
-  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=flat" height="35" alt="Python badge" />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=flat" height="35" alt="JavaScript badge" />
 </p>
 
