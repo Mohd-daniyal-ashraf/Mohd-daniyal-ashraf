@@ -13,6 +13,15 @@ Excel in Problem Solving(DSA) and Web Development.
 
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
+<h3 align="left">Portfolio:</h3>
+<a href="https://mohd-daniyal-ashraf.github.io/Daniyal-Portfolio/">
+    <img
+        src="https://img.shields.io/static/v1?message=Here&logo=rest&label=&color=6DB33F&logoColor=white&labelColor=&style=flat"
+        height="35"
+        alt="Here"
+        style="margin-right: 10px"
+      />
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
