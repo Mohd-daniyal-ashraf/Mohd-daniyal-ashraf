@@ -9,6 +9,7 @@
 👏 Welcome to my page! <br>
 I'm Daniyal, Full-stack developer from India. 
 Excel in Problem Solving(DSA) and Web Development.
+Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Express.JS, MongoDB, SQL, Tailwind CSS and more.
 
 
 <img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
