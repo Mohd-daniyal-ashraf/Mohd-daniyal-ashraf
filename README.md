@@ -43,6 +43,7 @@ Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Expr
 <h3>Technologyes:</h3>
 <p>
   <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=flat" height="35" alt="React.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/static/v1?message=Redux&logo=Redux&label=&color=764abc&logoColor=white&labelColor=&style=flat" height="35" alt="Redux badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=Tailwind CSS&logo=Tailwind CSS&label=&color=06B6D4&logoColor=white&labelColor=&style=flat" height="35" alt="Tailwind CSS badge" class="mr-2" />
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=flat" height="35" alt="Node.js badge" style="margin-right: 10px;" />
   <img src="https://img.shields.io/static/v1?message=EJS&logo=ejs&label=&color=3CA3E2&logoColor=white&labelColor=&style=flat" height="35" alt="EJS badge" style="margin-right: 10px;" />
