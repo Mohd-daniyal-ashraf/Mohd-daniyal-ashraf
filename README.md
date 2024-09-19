@@ -3,7 +3,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohd-daniyal-ashraf&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Mohd-daniyal-ashraf&style=for-the-badge&color=004687&label=Profile%20views" alt="Profile views badge"/>
 </div>
 
 👏 Welcome to my page! <br>
@@ -77,7 +77,6 @@ Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Expr
 
 ---
 # 📊 GitHub Stats:
-![](https://img.shields.io/badge/Profile_Views-9593-blue)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=mohd-daniyal-ashraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohd-daniyal-ashraf&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-daniyal-ashraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
