@@ -72,16 +72,11 @@ Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Expr
 </p>
 
 ---
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Mohd-daniyal-ashraf&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Mohd-daniyal-ashraf&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-daniyal-ashraf&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
+# 📊 GitHub Stats:
+![](https://img.shields.io/badge/Profile_Views-9593-blue)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mohd-daniyal-ashraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohd-daniyal-ashraf&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-daniyal-ashraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
