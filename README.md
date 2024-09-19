@@ -25,7 +25,7 @@ Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Expr
 </a>
 
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/mohd-daniyal-ashraf/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
@@ -35,34 +35,38 @@ Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Expr
 <h2>Things I code with</h2>
 <h3>Programming Languages:</h3>
 <p>
-  <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&labelColor=&style=flat" height="35" alt="C++ badge" style="margin-left: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=flat" height="35" alt="Java badge" />
-  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=flat" height="35" alt="JavaScript badge" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="35" alt="C++ badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white" height="35" alt="Java badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" height="35" alt="JavaScript badge" style="margin-right: 10px;" />
 </p>
 
-<h3>Technologyes:</h3>
+<h3>Technologies:</h3>
 <p>
-  <img src="https://img.shields.io/static/v1?message=React.js&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=flat" height="35" alt="React.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=Redux&logo=Redux&label=&color=764abc&logoColor=white&labelColor=&style=flat" height="35" alt="Redux badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=Tailwind CSS&logo=Tailwind CSS&label=&color=06B6D4&logoColor=white&labelColor=&style=flat" height="35" alt="Tailwind CSS badge" class="mr-2" />
-  <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=flat" height="35" alt="Node.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=EJS&logo=ejs&label=&color=3CA3E2&logoColor=white&labelColor=&style=flat" height="35" alt="EJS badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=Rest+API&logo=rest&label=&color=6DB33F&logoColor=white&labelColor=&style=flat" height="35" alt="Rest API badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=flat" height="35" alt="MongoDB badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=SQL&logo=sql&label=&color=003B57&logoColor=white&labelColor=&style=flat" height="35" alt="SQL badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=flat" height="35" alt="MySQL badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=flat" height="35" alt="HTML5 badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=flat" height="35" alt="CSS badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=563D7C&logoColor=white&labelColor=&style=flat" height="35" alt="Bootstrap badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=plastic&logo=react&logoColor=black" height="35" alt="React.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Redux-%23764abc.svg?style=plastic&logo=redux&logoColor=white" height="35" alt="Redux badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white" height="35" alt="Tailwind CSS badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white" height="35" alt="Node.js badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/EJS-%233CA3E2.svg?style=plastic&logo=ejs&logoColor=white" height="35" alt="EJS badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Rest%20API-%236DB33F.svg?style=plastic&logo=rest&logoColor=white" height="35" alt="Rest API badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white" height="35" alt="MongoDB badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=plastic&logo=sql&logoColor=white" height="35" alt="SQL badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" height="35" alt="MySQL badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="35" alt="HTML5 badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="35" alt="CSS badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" height="35" alt="Bootstrap badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/NPM-%234B7F52.svg?style=plastic&logo=npm&logoColor=white" height="35" alt="NPM badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Vite-%23605F60.svg?style=plastic&logo=vite&logoColor=white" height="35" alt="Vite badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Nodemon-%234B7F52.svg?style=plastic&logo=nodemon&logoColor=white" height="35" alt="Nodemon badge" style="margin-right: 10px;" />
 </p>
 
 <h3>Tools:</h3>
 <p>
-  <img src="https://img.shields.io/static/v1?message=VS+Code&logo=visual-studio-code&label=&color=007ACC&logoColor=white&labelColor=&style=flat" height="35" alt="VS Code badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=flat" height="35" alt="Git badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="35" alt="GitHub badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=flat" height="35" alt="Figma badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/static/v1?message=Canva&logo=canva&label=&color=00C4CC&logoColor=white&labelColor=&style=flat" height="35" alt="Canva badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" height="35" alt="VS Code badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=github-actions&logoColor=white" height="35" alt="GitHub Actions badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white" height="35" alt="Git badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" height="35" alt="GitHub badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" height="35" alt="Figma badge" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white" height="35" alt="Canva badge" style="margin-right: 10px;" />
 </p>
 
 ---
