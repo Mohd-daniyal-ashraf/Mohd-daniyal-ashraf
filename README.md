@@ -32,42 +32,37 @@ Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Expr
   </a>
 </div>
 
-<h2>Things I code with</h2>
-<h3>Programming Languages:</h3>
-<p>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" height="35" alt="C++ badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white" height="35" alt="Java badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" height="35" alt="JavaScript badge" style="margin-right: 10px;" />
-</p>
 
-<h3>Technologies:</h3>
-<p>
-  <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=plastic&logo=react&logoColor=black" height="35" alt="React.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Redux-%23764abc.svg?style=plastic&logo=redux&logoColor=white" height="35" alt="Redux badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white" height="35" alt="Tailwind CSS badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white" height="35" alt="Node.js badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/EJS-%233CA3E2.svg?style=plastic&logo=ejs&logoColor=white" height="35" alt="EJS badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Rest%20API-%236DB33F.svg?style=plastic&logo=rest&logoColor=white" height="35" alt="Rest API badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white" height="35" alt="MongoDB badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=plastic&logo=sql&logoColor=white" height="35" alt="SQL badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" height="35" alt="MySQL badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" height="35" alt="HTML5 badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" height="35" alt="CSS badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" height="35" alt="Bootstrap badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/NPM-%234B7F52.svg?style=plastic&logo=npm&logoColor=white" height="35" alt="NPM badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Vite-%23605F60.svg?style=plastic&logo=vite&logoColor=white" height="35" alt="Vite badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Nodemon-%234B7F52.svg?style=plastic&logo=nodemon&logoColor=white" height="35" alt="Nodemon badge" style="margin-right: 10px;" />
-</p>
+## Things I Code With
+### Programming Languages:
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h3>Tools:</h3>
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" height="35" alt="VS Code badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=github-actions&logoColor=white" height="35" alt="GitHub Actions badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white" height="35" alt="Git badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" height="35" alt="GitHub badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" height="35" alt="Figma badge" style="margin-right: 10px;" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white" height="35" alt="Canva badge" style="margin-right: 10px;" />
-</p>
+### Technologies:
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;&nbsp;
+![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)&nbsp;&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
+![EJS](https://img.shields.io/badge/EJS-3CA3E2?style=for-the-badge&logo=ejs&logoColor=white)&nbsp;&nbsp;
+![REST API](https://img.shields.io/badge/REST_API-6DB33F?style=for-the-badge&logo=rest&logoColor=white)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
+![NPM](https://img.shields.io/badge/NPM-4B7F52?style=for-the-badge&logo=npm&logoColor=white)&nbsp;&nbsp;
+![Vite](https://img.shields.io/badge/Vite-605F60?style=for-the-badge&logo=vite&logoColor=white)&nbsp;&nbsp;
+![Nodemon](https://img.shields.io/badge/Nodemon-4B7F52?style=for-the-badge&logo=nodemon&logoColor=white)
+
+### Tools:
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;&nbsp;
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 # Problem Solving
@@ -77,12 +72,25 @@ Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Expr
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mohd-daniyal-ashraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohd-daniyal-ashraf&theme=tokyonight&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-daniyal-ashraf&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mohd-daniyal-ashraf&theme=discord_old_blurple&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <a href="https://github.com/mohd-daniyal-ashraf">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-daniyal-ashraf&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/mohd-daniyal-ashraf">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-daniyal-ashraf&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/mohd-daniyal-ashraf"><img alt="Daniyal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohd-daniyal-ashraf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mohd-daniyal-ashraf"><img alt="Daniyal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohd-daniyal-ashraf&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Daniyal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohd-daniyal-ashraf&custom_title=Daniyal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
