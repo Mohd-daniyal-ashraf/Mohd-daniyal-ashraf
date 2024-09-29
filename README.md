@@ -6,13 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=Mohd-daniyal-ashraf&style=for-the-badge&color=004687&label=Profile%20views" alt="Profile views badge"/>
 </div>
 
-👏 Welcome to my page! <br>
-I'm Daniyal, Full-stack developer from India. 
-Excel in <b>Problem Solving(DSA)</b> and <b>Web Development</b>.
-Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Express.JS, MongoDB, SQL, Tailwind CSS and more.
+## 👏 Welcome to my page! <br>
+- ### I'm Daniyal, Full-stack developer from India. 
+- ### Excel in <b>Problem Solving(DSA)</b> and <b>Web Development</b>.
+- ### Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Express.JS, MongoDB, SQL, Tailwind CSS and more.
 
 
-<img align="right" alt="coding" width="400" src="https://img.etimg.com/thumb/width-1200,height-1200,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
 
 <h3 align="left">Portfolio:</h3>
 <a href="https://mohd-daniyal-ashraf.github.io/Daniyal-Portfolio/">
@@ -85,11 +85,11 @@ Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Expr
   </a>
 </p>
 
-<a align="center"> 
-    <a href="https://github.com/mohd-daniyal-ashraf" align="center><img alt="Daniyal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohd-daniyal-ashraf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mohd-daniyal-ashraf" align="center><img alt="Daniyal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohd-daniyal-ashraf&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<div align="center"> 
+    <img alt="Daniyal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohd-daniyal-ashraf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <img alt="Daniyal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohd-daniyal-ashraf&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   <br/>
-</a>
+</div>
 
 ![Daniyal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohd-daniyal-ashraf&custom_title=Daniyal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
