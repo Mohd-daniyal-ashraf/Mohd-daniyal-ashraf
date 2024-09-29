@@ -85,9 +85,9 @@ Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Expr
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/mohd-daniyal-ashraf"><img alt="Daniyal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohd-daniyal-ashraf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mohd-daniyal-ashraf"><img alt="Daniyal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohd-daniyal-ashraf&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a align="center"> 
+    <a href="https://github.com/mohd-daniyal-ashraf" align="center><img alt="Daniyal's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohd-daniyal-ashraf&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mohd-daniyal-ashraf" align="center><img alt="Daniyal's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohd-daniyal-ashraf&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
