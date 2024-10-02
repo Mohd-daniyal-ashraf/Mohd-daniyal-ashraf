@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=Mohd-daniyal-ashraf&style=for-the-badge&color=004687&label=Profile%20views" alt="Profile views badge"/>
 </div>
 
-## 👏 Welcome to my page! <br>
+## 👏 Welcome to my page <br>
 - ### I'm Daniyal, Full-stack developer from India. 
 - ### Excel in <b>Problem Solving(DSA)</b> and <b>Web Development</b>.
 - ### Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Express.JS, MongoDB, SQL, Tailwind CSS and more.
