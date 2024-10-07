@@ -7,7 +7,7 @@
 </div>
 
 ## 👏 Welcome to my page <br>
-- ### I'm Daniyal, Full-stack developer from India. 
+- ### I'm Daniyal, Full-Stack Developer from India. 
 - ### Excel in <b>Problem Solving(DSA)</b> and <b>Web Development</b>.
 - ### Having Expertise in a Range of Technologies Including in React.JS, Node.JS, Express.JS, MongoDB, SQL, Tailwind CSS and more.
 
